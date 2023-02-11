@@ -1,4 +1,8 @@
 #EJERCICIO 07
+#Escribir funciones que dada una cadena de caracteres:
+#Devuelva solamente las letras consonantes. 
+#Por ejemplo, si recibe algoritmos o logaritmos debe devolver lgrtms.
+
 frase = input("Ingrese una palabra o frase: ")
 if frase == 'x':
     exit();
