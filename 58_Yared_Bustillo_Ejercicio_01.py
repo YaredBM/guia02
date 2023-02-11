@@ -1,4 +1,6 @@
 #EJERCICIO 01
+#Un programa que pida una cadena, confirme si hay una 
+#5ta. Posición, muestre el carácter y su equivalente numérico.
 print("Ejercicio 01")
 palabra = str(input("Ingrese una palabra: "))
 
