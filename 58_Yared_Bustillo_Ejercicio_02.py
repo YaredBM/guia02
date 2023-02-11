@@ -1,4 +1,5 @@
 #EJERCICIO 02
+#Leer una frase y contar el número de vocales (de cada una) que aparecen.
 while(True):
     frase = input('Ingresa la frase: ')
     if frase == 'fin': 
